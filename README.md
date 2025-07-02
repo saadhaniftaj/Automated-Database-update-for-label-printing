@@ -60,4 +60,4 @@ This project was developed for a logistics company to automate and accelerate th
 
 ---
 
-**Developed for [Your Company Name] by [Your Name].** 
+**Developed for Nissi Distribution, ohio by saadhaniftaj.** 
